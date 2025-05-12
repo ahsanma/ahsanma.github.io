@@ -1,0 +1,15 @@
+technical:
+ - title: Excel
+   level: Advanced
+ - title: SQL
+   level: Basic
+ - title: HTML5
+   level: Intermediate
+ - title: CSS
+   level: Advanced
+
+soft:
+ - title: Communication
+   level: Intermediate
+ - title: Writing
+   level: Intermediate

@@ -1,0 +1,11 @@
+Mohamed Ahsan:
+  name        : "Mohamed Ahsan"
+  bio         : "Let's talk about code and excel! Reach out via the links below."
+  avatar      : "../assets/images/mohahsan.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "ahsan.mohamed@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.ahsanma.github.io"
